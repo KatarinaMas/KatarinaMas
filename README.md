@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @KatarinaMas.
+- 🌱 I’m currently looking for an Angular Developer to join our team at https://www.livv.ai/?city=Houston
